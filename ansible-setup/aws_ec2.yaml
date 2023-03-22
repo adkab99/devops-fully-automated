@@ -8,7 +8,7 @@ filters:
 #  tag:Environment: dev
   # All dev and QA hosts
   tag:Environment:
-    - test
+    - dev
     - stage
     - prod
   # Getting the details of running instances only
